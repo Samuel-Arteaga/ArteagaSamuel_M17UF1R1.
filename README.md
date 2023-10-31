@@ -4,7 +4,7 @@ En el siguiente juego VVVV Mini Sam tendrás el reto de llegar hasta el nivel 5 
 
 Teclas para Jugar:
 
-(A y D) o (<--- y →):  Movimiento Horizontal 
+(A y D) o (Teclas Horizontales):  Movimiento Horizontal 
 W o Tecla Arriba: Movimiento Vertical
 Space: Salto con cambio de gravedad
 
