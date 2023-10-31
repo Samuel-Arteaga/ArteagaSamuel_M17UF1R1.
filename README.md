@@ -12,4 +12,10 @@ Genero: Aventura 2D.
 
 ![image](https://github.com/Samuel-Arteaga/ArteagaSamuel_M17UF1R1./assets/145785950/b320c9cb-3976-42bb-90bb-d0cd178d4d06)
 
+![image](https://github.com/Samuel-Arteaga/ArteagaSamuel_M17UF1R1./assets/145785950/5ece6f4f-a90f-4d5d-8eac-8cd7e1d319ca)
+
+![image](https://github.com/Samuel-Arteaga/ArteagaSamuel_M17UF1R1./assets/145785950/8d817053-c0f0-4b6f-9aa5-77d252583ca0)
+
+
+
 
