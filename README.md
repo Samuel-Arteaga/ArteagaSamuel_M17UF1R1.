@@ -16,6 +16,8 @@ Genero: Aventura 2D.
 
 ![image](https://github.com/Samuel-Arteaga/ArteagaSamuel_M17UF1R1./assets/145785950/8d817053-c0f0-4b6f-9aa5-77d252583ca0)
 
+Documentos actualizados: Spawn.cs, GameManager.cs, MenuPause.cs, Proyectiles.cs, Gravity.cs
+
 
 
 
